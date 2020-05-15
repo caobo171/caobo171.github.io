@@ -1,0 +1,24 @@
+{
+  "name": "caobo171.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w modern_portfolio/scss/ -o modern_portfolio/dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caobo171/caobo171.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caobo171/caobo171.github.io/issues"
+  },
+  "homepage": "https://github.com/caobo171/caobo171.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
